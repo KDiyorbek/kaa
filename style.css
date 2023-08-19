@@ -9,4 +9,11 @@ html {
 
 h2 {
     text-align: center;
+    color: white;
+}
+h4 {
+    color: azure;
+}
+p {
+    color: orange;
 }
