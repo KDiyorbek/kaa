@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html {
+    background-color: #1a1a1a;
+}
+
 .dropbtn {
   background-color: #4CAF50;
   color: white;
