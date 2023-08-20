@@ -1,1 +1,3 @@
-# kd.github.io
+# Qaraqalpaqsha
+
+bul sayttıń tiykarǵı hám #Qarqalpaqsha versiyası!
