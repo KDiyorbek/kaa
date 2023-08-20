@@ -7,6 +7,13 @@ html {
     background-color: #1a1a1a;
 }
 
+body {
+  background-image: url('https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
 .dropbtn {
   background-color: #4CAF50;
   color: white;
