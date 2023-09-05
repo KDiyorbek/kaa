@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+html { 
+  width: 100%; 
+  height: 100%; 
+  overflow-x: hidden; 
+}
+
 body {
   background-image: url('https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg');
   background-repeat: no-repeat;
